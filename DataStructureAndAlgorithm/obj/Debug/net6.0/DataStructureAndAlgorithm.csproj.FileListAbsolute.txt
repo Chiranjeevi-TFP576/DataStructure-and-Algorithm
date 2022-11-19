@@ -1,0 +1,15 @@
+D:\Bridgelabs\DataStructureAndAlgorithm\DataStructureAndAlgorithm\bin\Debug\net6.0\DataStructureAndAlgorithm.exe
+D:\Bridgelabs\DataStructureAndAlgorithm\DataStructureAndAlgorithm\bin\Debug\net6.0\DataStructureAndAlgorithm.deps.json
+D:\Bridgelabs\DataStructureAndAlgorithm\DataStructureAndAlgorithm\bin\Debug\net6.0\DataStructureAndAlgorithm.runtimeconfig.json
+D:\Bridgelabs\DataStructureAndAlgorithm\DataStructureAndAlgorithm\bin\Debug\net6.0\DataStructureAndAlgorithm.dll
+D:\Bridgelabs\DataStructureAndAlgorithm\DataStructureAndAlgorithm\bin\Debug\net6.0\DataStructureAndAlgorithm.pdb
+D:\Bridgelabs\DataStructureAndAlgorithm\DataStructureAndAlgorithm\obj\Debug\net6.0\DataStructureAndAlgorithm.csproj.AssemblyReference.cache
+D:\Bridgelabs\DataStructureAndAlgorithm\DataStructureAndAlgorithm\obj\Debug\net6.0\DataStructureAndAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bridgelabs\DataStructureAndAlgorithm\DataStructureAndAlgorithm\obj\Debug\net6.0\DataStructureAndAlgorithm.AssemblyInfoInputs.cache
+D:\Bridgelabs\DataStructureAndAlgorithm\DataStructureAndAlgorithm\obj\Debug\net6.0\DataStructureAndAlgorithm.AssemblyInfo.cs
+D:\Bridgelabs\DataStructureAndAlgorithm\DataStructureAndAlgorithm\obj\Debug\net6.0\DataStructureAndAlgorithm.csproj.CoreCompileInputs.cache
+D:\Bridgelabs\DataStructureAndAlgorithm\DataStructureAndAlgorithm\obj\Debug\net6.0\DataStructureAndAlgorithm.dll
+D:\Bridgelabs\DataStructureAndAlgorithm\DataStructureAndAlgorithm\obj\Debug\net6.0\refint\DataStructureAndAlgorithm.dll
+D:\Bridgelabs\DataStructureAndAlgorithm\DataStructureAndAlgorithm\obj\Debug\net6.0\DataStructureAndAlgorithm.pdb
+D:\Bridgelabs\DataStructureAndAlgorithm\DataStructureAndAlgorithm\obj\Debug\net6.0\DataStructureAndAlgorithm.genruntimeconfig.cache
+D:\Bridgelabs\DataStructureAndAlgorithm\DataStructureAndAlgorithm\obj\Debug\net6.0\ref\DataStructureAndAlgorithm.dll
